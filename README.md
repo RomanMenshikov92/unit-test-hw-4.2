@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/b1oo5rgaxrrjghvu?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/unit-test-hw-4-2)
+
 ## Matchers
 
 ### Легенда
